@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk.Worker">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UserSecretsId>dotnet-LiteDbExample-1834B27C-F732-4FA3-98A0-E6C40F9EFE23</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AleRoe.LiteDB.Extensions.DependencyInjection" Version="0.0.92" />
+    <PackageReference Include="Microsoft.Extensions.Hosting" Version="3.1.18" />
+  </ItemGroup>
+</Project>

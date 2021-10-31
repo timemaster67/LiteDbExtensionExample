@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "LiteDbExample": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
